@@ -1,0 +1,29 @@
+{
+  "name": "<%= name %>",
+  "version": "0.0.1",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5",
+    "mkdirp": "^0.5.1",
+    "gulp" : "*",
+    "gulp-concat" : "latest",
+    "gulp-connect" : "latest",
+    "gulp-plumber" : "latest",
+    "gulp-sass" : "latest",
+    "gulp-sourcemaps" : "latest",
+    "gulp-watch" : "latest",
+    "merge-stream" : "latest",
+    "gulp-group-css-media-queries" : "latest",
+    "gulp-autoprefixer" : "latest",
+    "gulp-babel" : "latest",
+    "gulp-jslint" : "latest",
+    "gulp-zip" : "latest",
+    "babel-preset-es2015" : "latest",
+    "foundation" : "latest",
+    "gulp-csscomb" : "latest",
+    "jquery" : "latest",
+    "gulp-jasmine" : "latest",
+    "kss" : "latest",
+    "gulp-kss" : "latest",
+    "gulp-yuidoc" : "latest"
+  }
+}

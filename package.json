@@ -1,0 +1,33 @@
+{
+  "name": "generator-efigence",
+  "version": "0.5.1",
+  "description": "efigence.com simple starter package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "app"
+  ],
+  "author": "Jakub Chamicewicz || efigence.com",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^0.22.5",
+    "mkdirp": "^0.5.1",
+    "gulp" : "*"
+  },
+  "keywords": [
+    "yeoman",
+    "web",
+    "app",
+    "foundation",
+    "jasmine",
+    "boilerplate",
+    "template",
+    "gulp",
+    "babel",
+    "yuidoc",
+    "kss",
+    "sass"
+  ]
+}

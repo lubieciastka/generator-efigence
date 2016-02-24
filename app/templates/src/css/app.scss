@@ -1,0 +1,53 @@
+/*
+ * Copyright Efigence.com
+ * @author - undefined undefined | Efigence.com
+ * Main file - used to include all necessary files ( Vendors/ Custom CSS/ etc.)
+ */
+
+@charset "UTF-8";
+
+// Your includes ( Own scss);
+ 
+@import "base";
+
+// VENDORS:
+// Foundation: 
+
+@import "vendor/foundation/foundation/_variables.scss";
+
+// Foundation Components ( please remove unused after )
+
+@import "vendor/foundation/foundation/components/_global";
+@import  "vendor/foundation/foundation/components/_grid";
+@import  "vendor/foundation/foundation/components/_visibility";
+@import  "vendor/foundation/foundation/components/_block-grid";
+@import  "vendor/foundation/foundation/components/_type";
+@import  "vendor/foundation/foundation/components/_buttons";
+@import  "vendor/foundation/foundation/components/_forms";
+@import  "vendor/foundation/foundation/components/_custom-forms";
+@import  "vendor/foundation/foundation/components/_button-groups";
+@import  "vendor/foundation/foundation/components/_dropdown-buttons";
+@import  "vendor/foundation/foundation/components/_split-buttons";
+@import  "vendor/foundation/foundation/components/_flex-video";
+@import  "vendor/foundation/foundation/components/_section";
+@import  "vendor/foundation/foundation/components/_top-bar";
+@import  "vendor/foundation/foundation/components/_orbit";
+@import  "vendor/foundation/foundation/components/_reveal";
+@import  "vendor/foundation/foundation/components/_joyride";
+@import  "vendor/foundation/foundation/components/_clearing";
+@import  "vendor/foundation/foundation/components/_alert-boxes";
+@import  "vendor/foundation/foundation/components/_breadcrumbs";
+@import  "vendor/foundation/foundation/components/_keystrokes";
+@import  "vendor/foundation/foundation/components/_labels";
+@import  "vendor/foundation/foundation/components/_inline-lists";
+@import  "vendor/foundation/foundation/components/_pagination";
+@import  "vendor/foundation/foundation/components/_panels";
+@import  "vendor/foundation/foundation/components/_pricing-tables";
+@import  "vendor/foundation/foundation/components/_progress-bars";
+@import  "vendor/foundation/foundation/components/_side-nav";
+@import  "vendor/foundation/foundation/components/_sub-nav";
+@import  "vendor/foundation/foundation/components/_switch";
+@import  "vendor/foundation/foundation/components/_magellan";
+@import  "vendor/foundation/foundation/components/_tables";
+@import  "vendor/foundation/foundation/components/_thumbs";
+@import  "vendor/foundation/foundation/components/_tooltips";
